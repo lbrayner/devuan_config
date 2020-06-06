@@ -6,7 +6,7 @@ Pin-Priority: 900
 
 Package: *
 Pin: release a=stable-security
-Pin-Priority: 901
+Pin-Priority: 910
 
 # Package: *
 # Pin: release a=testing
