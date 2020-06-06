@@ -1,0 +1,7 @@
+Package: systemd:amd64
+Pin: origin ""
+Pin-Priority: -1
+
+Package: systemd:i386
+Pin: origin ""
+Pin-Priority: -1

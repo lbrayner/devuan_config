@@ -1,0 +1,7 @@
+Package: systemd-sysv:amd64
+Pin: release o=Debian
+Pin-Priority: -1
+
+Package: systemd-sysv:i386
+Pin: release o=Debian
+Pin-Priority: -1

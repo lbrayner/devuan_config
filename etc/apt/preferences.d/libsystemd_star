@@ -1,0 +1,7 @@
+Package: libsystemd-*:amd64
+Pin: origin ""
+Pin-Priority: -1
+
+Package: libsystemd-*:i386
+Pin: origin ""
+Pin-Priority: -1

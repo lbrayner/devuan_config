@@ -1,0 +1,60 @@
+
+
+# deb http://ftp.us.debian.org/debian/ jessie main contrib non-free
+# deb-src http://ftp.us.debian.org/debian/ jessie main contrib non-free
+#
+# deb http://security.debian.org/ jessie/updates main contrib non-free
+# deb-src http://security.debian.org/ jessie/updates main contrib non-free
+#
+# deb http://ftp.us.debian.org/debian/ jessie-updates main contrib non-free
+# deb-src http://ftp.us.debian.org/debian/ jessie-updates main contrib non-free
+
+# deb http://ftp.us.debian.org/debian/ buster main contrib non-free
+# deb-src http://ftp.us.debian.org/debian/ buster main contrib non-free
+#
+# deb http://security.debian.org/ buster/updates main contrib non-free
+# deb-src http://security.debian.org/ buster/updates main contrib non-free
+#
+# deb http://ftp.us.debian.org/debian/ buster-updates main contrib non-free
+# deb-src http://ftp.us.debian.org/debian/ buster-updates main contrib non-free
+
+# testing
+# deb http://ftp.br.debian.org/debian/ testing main non-free contrib
+
+# sid
+# deb http://http.us.debian.org/debian unstable main non-free contrib
+# deb http://ftp.us.debian.org/debian unstable main non-free contrib
+# deb http://ftp.br.debian.org/debian/ unstable main non-free contrib
+# deb-src http://http.us.debian.org/debian unstable main non-free contrib
+# backports
+# deb http://ftp.debian.org/debian stretch-backports main
+
+# DEVUAN
+# DEVUAN
+# DEVUAN
+
+deb http://deb.devuan.org/merged beowulf main non-free contrib
+deb http://deb.devuan.org/merged beowulf-security main non-free contrib
+deb http://deb.devuan.org/merged beowulf-updates main non-free contrib
+
+# backports
+# deb http://deb.devuan.org/merged ascii-backports main contrib non-free
+
+# sid - unstable
+deb http://deb.devuan.org/merged unstable main non-free contrib
+
+# DEVUAN TOR
+# DEVUAN TOR
+# DEVUAN TOR
+
+# deb tor+http://devuanfwojg73k6r.onion/merged beowulf main non-free contrib
+# deb tor+http://devuanfwojg73k6r.onion/merged beowulf-security main non-free contrib
+# deb tor+http://devuanfwojg73k6r.onion/merged beowulf-updates main non-free contrib
+
+# # backports
+# deb tor+http://devuanfwojg73k6r.onion/merged ascii-backports main contrib non-free
+
+# # sid - unstable
+# deb tor+http://devuanfwojg73k6r.onion/merged unstable main non-free contrib
+
+# vim:ft=debsources
